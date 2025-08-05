@@ -1,0 +1,8 @@
+/* Prosty CSS dla przykładu */
+body {
+    background-color: #1a202c;
+    font-family: sans-serif;
+}
+#root {
+    padding: 2rem;
+}
